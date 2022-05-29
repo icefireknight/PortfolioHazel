@@ -1,0 +1,9 @@
+.projects{
+    max-width: fit-content;
+}
+
+#profile{
+    border-radius: 50%;
+    max-width: 50%;
+    height: auto;
+}
